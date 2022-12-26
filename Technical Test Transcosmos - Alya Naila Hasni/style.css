@@ -1,0 +1,153 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Century Gothic";
+  color: #e5e5e5;
+}
+
+.navbar {
+  z-index: 1;
+  position: absolute;
+}
+
+.navbar-brand {
+  margin-right: 2rem;
+  padding-bottom: 20px;
+}
+
+.nav-link {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.carousel {
+  z-index: -1;
+  width: 100%;
+}
+
+.firstcontent {
+  background-color: #0f1320;
+  padding: 50px;
+}
+
+.secondcontent {
+  background-color: #0f1320;
+  padding-top: 50px;
+  padding-bottom: 150px;
+  padding-left: 90px;
+}
+
+.number {
+  background-color: #0f1320;
+  padding-top: 50px;
+  padding-left: 150px;
+}
+
+.date {
+  padding-left: 200px;
+}
+
+.card_secondcontent {
+  padding: 0.5rem;
+  margin-right: 20px;
+  margin-top: 50px;
+  width: 520px;
+  background-color: #171b29;
+  border-radius: 20px;
+}
+
+.card_secondcontent1 {
+  padding: 0.5rem;
+  margin-right: 20px;
+  margin-top: 80px;
+  margin-bottom: -30px;
+  width: 520px;
+  background-color: #171b29;
+  border-radius: 20px;
+}
+
+.thirdcontent {
+  background-color: #0f1320;
+  padding: 50px;
+}
+
+.forthcontent {
+  background-color: #0f1320;
+  padding: 50px;
+}
+
+.fifthcontent {
+  background-color: #0f1320;
+  padding: 50px;
+}
+
+.toknerscoming {
+  color: #e5e5e5;
+  text-align: justify;
+  padding: 50px;
+}
+
+.sixthcontent {
+  background-color: #0f1320;
+  padding-left: 120px;
+  padding-bottom: 50px;
+}
+
+.title_sixth {
+  padding-left: 400px;
+  padding-bottom: 50px;
+}
+
+.seventhcontent {
+  background-color: #0f1320;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+}
+
+.card_seventhcontent {
+  padding: 0.5rem;
+  margin-right: 20px;
+  margin-top: 50px;
+  width: 350px;
+  height: 200px;
+  background-color: #171b29;
+  border-radius: 20px;
+}
+
+.card-title_seventhcontent {
+  font-size: 15px;
+  color: gray;
+}
+
+.card-text_seventhcontent {
+  padding-right: 35px;
+  padding-left: 60px;
+  padding-top: 15px;
+}
+
+.nav_bawah {
+  background-color: #0f1320;
+  padding-bottom: 100px;
+  padding-left: 250px;
+}
+
+.textbawah {
+  margin-right: 50px;
+  text-decoration: none;
+}
+
+.footer_icons {
+  background-color: #0f1320;
+  padding-bottom: 100px;
+  padding-left: 50px;
+}
+
+.icon_bawah {
+  margin-right: -130px;
+}
+
+.cprght {
+  padding-left: 175px;
+}
